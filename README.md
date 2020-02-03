@@ -1,5 +1,7 @@
 # RedDoor Application
-This application is a web application for a technical challenge. It uses node.js, express and EJS. Test scenarios are included in the test folder with expected results to help users test the application. The application is live at: https://reddoor-app.herokuapp.com/
+This application is a web application for a technical challenge. It uses node.js, express and EJS. The application is live at: https://reddoor-app.herokuapp.com/
+
+The 'Application' folder contains files related to the web app. The 'Logic' folder contains files for users who would like to view the logic outside of the web app. The 'Test' folder contains files with test scenarios, along with expected results, to help users test the application.
 
 ## Elevator Challenge
 There is an elevator in a building with M floors. This elevator can take a max of X people at a time or max of total weight Y. Given that a set of people and their weight and the floor they need to stop, how many stops has the elevator taken to serve all the people? Consider the elevator serves in “first come first serve” basis and the order for the queue cannot be changed.
